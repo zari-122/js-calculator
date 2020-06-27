@@ -1,0 +1,23 @@
+.main{
+
+
+    text-align: center;
+}
+
+
+
+
+
+
+input , button{padding: 5px 10px;
+    margin: 2px 5px;
+    border-radius: 5px;
+background-color: aqua;
+color: red;
+}
+
+
+
+#h{ width: 200px;
+
+}
